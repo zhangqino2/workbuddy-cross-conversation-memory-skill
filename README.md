@@ -36,7 +36,7 @@ Agent 每次会话都是失忆的。上下文窗口关掉，上次定好的方�
 克隆到技能目录：
 
 ```bash
-git clone https://github.com/zhangqino2/cross-session-memory.git \
+git clone https://github.com/zhangqino2/workbuddy-cross-conversation-memory-skill.git \
   ~/.workbuddy-ai/skills/cross-session-memory
 ```
 
