@@ -1,0 +1,11 @@
+# 统一换行符，避免 Windows 检出后脚本在 Linux/macOS 上出问题
+* text=auto eol=lf
+
+*.py   text eol=lf
+*.md   text eol=lf
+*.json text eol=lf
+*.sh   text eol=lf
+
+*.png  binary
+*.jpg  binary
+*.zip  binary
